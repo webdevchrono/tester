@@ -1,0 +1,8 @@
+app\design\frontend\ultimo\default\template\catalog\product\view\addto.phtml
+app\design\frontend\base\default\template\catalog\product\view\authenticity.phtml 
+app\design\frontend\base\default\layout\catalog.xml
+skin\frontend\ultimo\default\css\common.css
+app\design\frontend\ultimo\default\template\page\html\footer_theme_scripts.phtml
+app\design\frontend\ultimo\default\template\catalog\product\list.phtml
+skin\frontend\ultimo\default\css\custom.css
+skin\frontend\ultimo\default\css\infortis\cloud-zoom\cloud-zoom.css
